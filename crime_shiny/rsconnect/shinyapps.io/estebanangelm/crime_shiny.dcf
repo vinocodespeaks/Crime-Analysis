@@ -1,0 +1,12 @@
+name: crime_shiny
+title: crime_shiny
+username:
+account: estebanangelm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 258945
+bundleId: 1185853
+url: https://estebanangelm.shinyapps.io/crime_shiny/
+when: 1516563429.44215
+asMultiple: FALSE
+asStatic: FALSE

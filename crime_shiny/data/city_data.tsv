@@ -1,0 +1,69 @@
+department_name	code	real_name	state	search_name	lat	long
+Albuquerque, N.M.	NM00101	Albuquerque	New Mexico	AlbuquerqueNM	35.0844909	-106.6511367
+Arlington, Texas	TX22001	Arlington	Texas	ArlingtonTX	32.735687	-97.1080656
+Atlanta	GAAPD00	Atlanta	Georgia	AtlantaGA	33.7489954	-84.3879824
+Aurora, Colo.	CO00101	Aurora	Colorado	AuroraCO	39.7294319	-104.8319195
+Austin, Texas	TX22701	Austin	Texas	AustinTX	30.267153	-97.7430608
+Baltimore	MDBPD00	Baltimore	Maryland	BaltimoreMD	39.2903848	-76.6121893
+Baltimore County, Md.	MD00301	Baltimore	Maryland	BaltimoreMD	39.2903848	-76.6121893
+Boston	MA01301	Boston	Massachussets	BostonMA	42.3584308	-71.0597732
+Buffalo, N.Y.	NY01401	Buffalo	New York	BuffaloNY	42.8864468	-78.8783689
+Charlotte-Mecklenburg, N.C.	NC06001	Charlotte	North Carolina	CharlotteNC	35.2270869	-80.8431268
+Chicago	ILCPD00	Chicago	Illinois	ChicagoIL	41.850033	-87.6500523
+Cincinnati	OHCIP00	Cincinnati	Ohio	CincinnatiOH	39.1146631	-84.52968641
+Cleveland	OHCLP00	Cleveland	Ohio	ClevelandOH	41.4994954	-81.6954088
+Columbus, Ohio	OHCOP00	Columbus	Ohio	ColumbusOH	39.9611755	-82.9987942
+Dallas	TXDPD00	Dallas	Texas	DallasTX	32.7830556	-96.8066667
+Denver	CODPD00	Denver	Colorado	DenverCO	39.7391536	-104.9847034
+Detroit	MI82349	Detroit	Michigan	DetroitMI	42.331427	-83.0457538
+El Paso, Texas	TX07102	El Paso	Texas	El PasoTX	31.7587198	-106.4869314
+Fairfax County, Va.	VA02901	Fairfax County	Virginia	FairfaxVA	38.8462236	-77.3063733
+Fort Worth, Texas	TX22012	Fort Worth	Texas	Fort WorthTX	32.725409	-97.3208496
+Fresno, Calif.	CA01005	Fresno	California	FresnoCA	36.7477272	-119.7723661
+Honolulu	HI00200	Honolulu	Hawaii	HonoluluHI	21.3069444	-157.8583333
+Houston	TXHPD00	Houston	Texas	HoustonTX	29.7632836	-95.3632715
+Indianapolis	INIPD00	Indianapolis	Indiana	IndianapolisIN	39.7683765	-86.1580423
+Jacksonville, Fla.	FL01602	Jacksonville	Florida	JacksonvilleFL	30.3321838	-81.655651
+Kansas City, Mo.	MOKPD00	Kansas City	Missouri	Kansas CityMO	39.0997266	-94.5785667
+Las Vegas	NV00201	Las Vegas	Nevada	Las VegasNV	36.1749705	-115.137223
+Long Beach, Calif.	CA01941	Long Beach	California	Long BeachCA	33.7669623	-118.1892348
+Los Angeles	CA01942	Los Angeles	California	Los AngelesCA	34.0522342	-118.2436849
+Los Angeles County, Calif.	CA01900	Los Angeles	California	Los AngelesCA	34.0522342	-118.2436849
+Louisville, Ky.	KY05680	Louisville	Kentucky	LouisvilleKY	38.2542376	-85.759407
+Memphis, Tenn.	TNMPD00	Memphis	Tennessee	MemphisTN	35.1495343	-90.0489801
+Mesa, Ariz.	AZ00717	Mesa	Arizona	MesaAZ	33.4222685	-111.8226402
+Miami	FL01306	Miami	Florida	MiamiFL	25.7742658	-80.1936589
+Miami-Dade County, Fla.	FL01300	Miami	Florida	MiamiFL	25.7742658	-80.1936589
+Milwaukee	WIMPD00	Milwaukee	Wisconsin	MilwaukeeWI	43.0389025	-87.9064736
+Minneapolis	MN02711	Minneapolis	Minnesotta	MinneapolisMN	44.9799654	-93.2638361
+Montgomery County, Md.	MD01604	Montgomery County	Maryland	RockvilleMD	39.0839973	-77.1527578
+Nashville, Tenn.	TN01901	Nashville	Tennessee	NashvilleTN	36.1658899	-86.7844432
+Nassau County, N.Y.	NY02900	Nassau County	New York	HempsteadNY	40.7062128	-73.6187397
+New Orleans	LANPD00	New Orleans	Lousiana	New OrleansLA	29.9546482	-90.075072
+New York City	NY03030	New York	New York	New YorkNY	40.76149276	-73.98143112
+Newark, N.J.	NJNPD00	Newark	New Jersey	NewarkNJ	40.735657	-74.1723667
+Oakland, Calif.	CA00109	Oakland	California	OaklandCA	37.8043722	-122.2708026
+Oklahoma City	OK05506	Oklahoma City	Oaklahoma	Oklahoma CityOK	35.4715076	-97.54021069
+Omaha, Neb.	NB02802	Omaha	Nebraska	OmahaNE	41.2586096	-95.937792
+Orlando, Fla.	FL04804	Orlando	Florida	OrlandoFL	28.5383355	-81.3792365
+Philadelphia	PAPEP00	Philadelphia	Pennsylvania	PhiladelphiaPA	39.952335	-75.163789
+Phoenix	AZ00723	Phoenix	Arizona	PhoenixAZ	33.4483771	-112.0740373
+Pittsburgh	PAPPD00	Pittsburgh	Pennsylvania	PittsburghPA	40.4406248	-79.9958864
+Portland, Ore.	OR02602	Portland	Oregon	PortlandOR	45.5234515	-122.6762071
+Prince George's County, Md.	MD01721	Prince George's County	Maryland	BowieMD	38.97171205	-76.74855206
+Raleigh, N.C.	NC09201	Raleigh	North Carolina	RaleighNC	35.772096	-78.6386145
+Sacramento, Calif.	CA03404	Sacramento	California	SacramentoCA	38.5815719	-121.4943996
+Salt Lake City	UT01803	Salt Lake City	Utah	Salt Lake CityUT	40.7607794	-111.8910474
+San Antonio	TXSPD00	San Antonio	Texas	San AntonioTX	29.4241219	-98.4936282
+San Diego	CA03711	San Diego	California	San DiegoCA	32.7153292	-117.1572551
+San Francisco	CA03801	San Francisco	California	San FranciscoCA	37.7749295	-122.4194155
+San Jose	CA04313	San Jose	California	San JoseCA	37.3393857	-121.8949555
+Seattle	WASPD00	Seattle	Washington	SeattleWA	47.6062095	-122.3320708
+St. Louis, Mo.	MOSPD00	Saint Louis	Missouri	Saint LouisMO	38.6272733	-90.1978889
+Suffolk County, N.Y.	NY05101	Suffolk County	New York	BrookhavenNY	40.7792653	-72.9153827
+Tampa, Fla.	FL02902	Tampa	Florida	TampaFL	27.9475216	-82.4584279
+Tucson, Ariz.	AZ01003	Tucson	Arizona	TucsonAZ	32.2217429	-110.926479
+Tulsa, Okla.	OK07205	Tulsa	Oaklahoma	TulsaOK	36.157929	-96.01655809
+Virginia Beach, Va.	VA12800	Virginia Beach	Virginia	Virginia BeachVA	36.8529263	-75.977985
+Washington, D.C.	DCMPD00	Washington	DC	WashingtonDC	38.8951118	-77.0363658
+Wichita, Kan.	KS08703	Wichita	Kansas	WichitaKS	37.6922361	-97.3375448
