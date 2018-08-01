@@ -1,5 +1,5 @@
 ## Crime Analytics Dashboard - UI
-## Author: SOLAI MURUGAN V 2018
+## Author: SOLAI MURUGAN Vinod Arjun 2018
 
 ## Usage:
 
