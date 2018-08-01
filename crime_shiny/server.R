@@ -1,5 +1,5 @@
 ## Crime Analytics Dashboard - Server
-## Author: SOLAI MURUGAN V 2018
+## Author: SOLAI MURUGAN Vinod Arjun 2018
 #setwd("/media/bdalab/docs/part_time/student_pjt/Crime_2pjt/crime_analytics-master_SFCDataset/crime_shiny/")
 ## Usage:
 
